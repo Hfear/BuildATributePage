@@ -1,0 +1,33 @@
+.main{
+    color:rgb(140, 24, 24);
+    text-align: center;
+    background-color: blanchedalmond;
+    
+}
+
+.title{
+    color:brown;
+
+}
+.year{
+   font-weight: bold;
+}
+
+.tan{
+    background-color:burlywood;
+}
+
+.timePoint{
+    display : flex;
+}
+
+.img{
+
+height: 300px;
+width: 300px;
+ margin: auto;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
